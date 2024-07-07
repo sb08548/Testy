@@ -4,6 +4,7 @@ public class Main {
 
     rafal.setName("Rafalek");
     rafal.setRasa("Maltanczyk");
+    rafal.setColor("Biały");
 
 
         System.out.println("Mój pies " + rafal.getName() + ", jest rasy " + rafal.getRasa() + ", jest " + rafal.getColor() + "." );
